@@ -1,6 +1,6 @@
-# Go-Down
+# Go-Project
 
-> 一个简单的下载器项目，使用 GO 语言编写。
+> 几个学习项目，使用 GO 语言编写。
 
 Idea from *[A few ideas for your next Go project](https://smoqadam.me/posts/a-few-ideas-for-your-next-go-project/)*
 ([local url](https://github.com/gofromzero/go-project/blob/master/docs/A%20few%20ideas%20for%20your%20next%20Go%20project.md)).
