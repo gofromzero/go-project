@@ -1,0 +1,3 @@
+[submodule "projects/go-down"]
+	path = projects/go-down
+	url = https://github.com/gofromzero/go-down
